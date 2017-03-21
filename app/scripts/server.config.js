@@ -8,12 +8,12 @@ var nodeEnv = {
 var serverList = {
     yg: {
         test: {
-            server: 'http://activity.aginomoto.com/activity/gugong',
-            site:'http://test-h5.aginomoto.com/web/activity/20161219'
+            server: '',
+            site:''
         },
         production : {
-            server: 'http://activity.aginomoto.com/activity/gugong',
-            site:'http://portal.aginomoto.com/web/activity/tv/20161219'
+            server: '',
+            site:''
         }
     }
 };
