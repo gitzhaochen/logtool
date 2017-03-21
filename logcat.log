@@ -1,0 +1,720 @@
+﻿02-28 00:12:16.507  3290  3290 D HeliosBIReceiver: logUrl : 28 strategy : 1 log : {"logVersion":"02","logType":"event","happenTime":1488211936488,"eventId":"whaley-rom-network-detect","params":{"pingdatas":"63,55,62,54,55,55,59,52,56,91,99,57,87,57,54,55,70,53,56,58,"}}
+02-28 00:12:16.507  3290  3290 D BILogManager: logUrl : TV_ROMLOG strategy : DEFAULT log : {"logVersion":"02","logType":"event","happenTime":1488211936488,"eventId":"whaley-rom-network-detect","params":{"pingdatas":"63,55,62,54,55,55,59,52,56,91,99,57,87,57,54,55,70,53,56,58,"}}
+02-28 00:12:16.513  1207  1207 I tvos url:http://vod.ptwhaley.gitv.tv/Service/getLiveStatus   : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:16.515  3290  3290 D BILogDBManager: saveLog-rowId : 2065
+02-28 00:12:16.516  3290  3290 D BILogDBManager: getCount-count : 1
+02-28 00:12:16.692 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:16.696     0     0 I Kernel  : <7>[86404.775896] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:16.816  1207  1207 I tvos  onReceivePlayEvent event:109 UnknownHostException !  url:  : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:17.119  1207  1207 I tvos  onReceivePlayEvent event:109  : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:17.265  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 24 (E:0,D:0,S:0,F:18179) 
+02-28 00:12:17.300  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:62105592, Bitrate:1536250
+02-28 00:12:17.300  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:17.303  1202 15859 D mstplayer: [15859] [AVP] notify_msg_cb: 0x5008
+02-28 00:12:17.304  1202 15859 D mstplayer: [15859] [AVP] update network info, Bandwidth:62105592
+02-28 00:12:17.304  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:17.304 15238 15807 W MediaPlayer: info/warning (703, 62105592)
+02-28 00:12:17.421  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:17.527  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:17.724  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:17.728     0     0 I Kernel  : <7>[86405.785871] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:18.027  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:18.296  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:62105592, Bitrate:1536250
+02-28 00:12:18.297  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:18.299  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18205) 
+02-28 00:12:18.299  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:18.329  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:18.351  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:18.414  1987  2679 D WifiNative-wlan0: doString: [SIGNAL_POLL]
+02-28 00:12:18.417  1987  2679 E WifiConfigStore: updateConfiguration freq=2462 BSSID=00:9a:cd:9f:09:bc RSSI=-40 "Honor-PRO"WPA_PSK
+02-28 00:12:18.632  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:18.636     0     0 I Kernel  : <7>[86406.795870] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:18.693 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:18.934  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:19.140  1202 15865 D Downloader: [threadLoop] Download instance(0xc4af6040)  is runing... 
+02-28 00:12:19.237  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:19.304  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:62105592, Bitrate:1536250
+02-28 00:12:19.305  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:19.305  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:19.334  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18231) 
+02-28 00:12:19.540  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:19.552  4115  4115 I SLK: TransportManager:[FamilyTransportManager$4.onComplete(Line:1787)]:  get udp Broadcast : []
+02-28 00:12:19.553  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:19.591  1202 15874 D Downloader: [threadLoop] Download instance(0xc5922040)  is runing... 
+02-28 00:12:19.595     0     0 I Kernel  : <7>[86407.805876] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:19.685  1987  2680 D WifiHW  : ===>[detect_wifi_device]
+02-28 00:12:19.701  1202 15874 I Downloader: [messenger_loop]  Receive download cmd : 1 
+02-28 00:12:19.701  1202 15874 D Downloader: [removeTask] removeTask...  
+02-28 00:12:19.701  1202 15874 D Downloader: [messenger_loop]  cmd_info rangeStr=    range= 0 
+02-28 00:12:19.701  1202 15874 D Downloader: [messenger_loop]  cmd_info bCheckDiscFlag = 0   
+02-28 00:12:19.701  1202 15874 D Downloader: [messenger_loop]  download without Drop mode.
+02-28 00:12:19.703  1202 15874 D Downloader: [StartTask] url :http://127.0.0.1:16890/play?enc=base64&url=aHR0cDovLzEyNy4wLjAuMTo4MDUwL2dzbGI/YXBwX3Zlcj0yLjkuOSZiaWFzZW49T1dObE56Tm1NemRqTkdReFl6QXlPRGMzWVRjMk1USTBNelpsT0dNNU56SmZNakV3WmpnNE1XTXlNV1l6WXpKa05EQXpNamhtWXpRNVlXTmxZekEwWWpJJTNEJnN0cmVhbV9pZD1jY3R2MSZ0YWc9bGl2ZSZleHQ9bTN1OCZzaWduPWxpdmVfdHYmcDE9MiZwMj0ydyZzdGF0aW9uPWNjdHYxJnBsYXRpZD0xMCZzcGxhdGlkPTEwMTEmcGxheWlkPTEmdGVybWlkPTImdHNzPXR2dHMmbTN2PTEmcGF5PTAmZm9ybWF0PTEmbXNsaWNlPTUmZXhwZWN0PTMmdnR5cGU9bTN1OCZvc3R5cGU9YW5kcm9pZCZod3R5cGU9YW5kcm9pZA==&ext=m3u8&mediatype=m3u8&tagtime=1488211209
+02-28 00:12:19.707  1202 15874 I Downloader: [header_callback] HTTP/1.1 200 OK
+02-28 00:12:19.708  1202 15874 I Downloader: [header_callback] Server: SuperNode HLS/1.0.71
+02-28 00:12:19.708  1202 15874 I Downloader: [header_callback] Date: Mon, 27 Feb 2017 16:12:19 GMT
+02-28 00:12:19.708  1202 15874 I Downloader: [header_callback] Connection: close
+02-28 00:12:19.708  1202 15874 I Downloader: [header_callback] Content-Length: 605
+02-28 00:12:19.708  1202 15874 I Downloader: [header_callback] Get file size from 'Content-Length:' : 605  ptask->range=0 
+02-28 00:12:19.708  1202 15874 I Downloader: [header_callback] Content-Type: application/x-mpegURL
+02-28 00:12:19.708  1202 15874 I Downloader: [header_callback] Access-Control-Allow-Origin: *
+02-28 00:12:19.708  1202 15874 I Downloader: [header_callback] 
+02-28 00:12:19.708  1202 15874 D Downloader: [receive_data] Find M3u8 data. 
+02-28 00:12:19.708  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:19.708  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:19.708  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:19.708  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:19.711  1202 15873 D DataSource_M3U8: [threadLoop] hls md5sum: BA65215051C139921153943962D88D9D
+02-28 00:12:19.711  1202 15873 D DataSource_M3U8: [threadLoop] M3u8 skip same md5 playlist...
+02-28 00:12:19.842  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:20.145  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:20.306  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:62105592, Bitrate:1536250
+02-28 00:12:20.307  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:20.308  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:20.351  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:20.369  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18257) 
+02-28 00:12:20.447  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:20.530  1987  4436 D WhaleyPlayerManagerService: #requestStr=http://api.tvmore.com.cn/basicservice/location?app=whaleyrom
+02-28 00:12:20.693 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:20.697     0     0 I Kernel  : <7>[86408.815864] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:20.722  3064 13835 D PersistentConnect: cmd : 268435489 msg : 
+02-28 00:12:20.750  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:21.053  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:21.309  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:62105592, Bitrate:1536250
+02-28 00:12:21.310  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:21.311  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:21.355  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:21.422  1987  2679 D WifiNative-wlan0: doString: [SIGNAL_POLL]
+02-28 00:12:21.425  1987  2679 E WifiConfigStore: updateConfiguration freq=2462 BSSID=00:9a:cd:9f:09:bc RSSI=-40 "Honor-PRO"WPA_PSK
+02-28 00:12:21.428  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 24 (E:0,D:0,S:0,F:18283) 
+02-28 00:12:21.580  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:21.586  1987  2676 D NetdConnector: SND -> {39496 bandwidth gettetherstats}
+02-28 00:12:21.587  1199  1635 E CommandListener: gettetherstats
+02-28 00:12:21.587  1199  1635 E Netd    : gettetherstats
+02-28 00:12:21.587  1199  1635 E CommandListener: Tethering stats list completed
+02-28 00:12:21.587  1199  1635 E Netd    : Tethering stats list completed
+02-28 00:12:21.587  1987  2676 D NetdConnector: RMV <- {200 39496 Tethering stats list completed}
+02-28 00:12:21.597  1987  2676 I netstats_mobile_sample: [0,0,0,0,0,0,0,0,0,0,0,0,1488211941598]
+02-28 00:12:21.598  1987  2676 I netstats_wifi_sample: [27573709815,21146196,1326,6537319,27578750256,21185991,3502724792,6596779,27578728117,21185860,3492839074,6530916,1488211941598]
+02-28 00:12:21.603  1987  2676 D NetdConnector: SND -> {39497 bandwidth setglobalalert 2097152}
+02-28 00:12:21.604  1987  2676 D NetdConnector: RMV <- {200 39497 Bandwidth command succeeeded}
+02-28 00:12:21.658  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:21.662     0     0 I Kernel  : <7>[86409.825883] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:21.961  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:22.263  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:22.305  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:62105592, Bitrate:1536250
+02-28 00:12:22.305  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:22.306  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:22.353  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:22.404  1987  2676 D NetdConnector: SND -> {39498 bandwidth gettetherstats}
+02-28 00:12:22.405  1199  1635 E CommandListener: gettetherstats
+02-28 00:12:22.405  1199  1635 E Netd    : gettetherstats
+02-28 00:12:22.405  1199  1635 E CommandListener: Tethering stats list completed
+02-28 00:12:22.405  1199  1635 E Netd    : Tethering stats list completed
+02-28 00:12:22.405  1987  2676 D NetdConnector: RMV <- {200 39498 Tethering stats list completed}
+02-28 00:12:22.422  1987  2676 I netstats_mobile_sample: [0,0,0,0,0,0,0,0,0,0,0,0,1488211942423]
+02-28 00:12:22.424  1987  2676 I netstats_wifi_sample: [27574427081,21147162,1326,6538779,27579470100,21186958,3504234601,6598232,27579462249,21186835,3494314963,6532347,1488211942423]
+02-28 00:12:22.427  1987  2676 D NetdConnector: SND -> {39499 bandwidth setglobalalert 2097152}
+02-28 00:12:22.428  1987  2676 D NetdConnector: RMV <- {200 39499 Bandwidth command succeeeded}
+02-28 00:12:22.457  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18309) 
+02-28 00:12:22.566  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:22.695 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:22.699     0     0 I Kernel  : <7>[86410.835978] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:22.869  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:23.113  1202 15874 I Downloader: [messenger_loop]  Receive download cmd : 1 
+02-28 00:12:23.113  1202 15874 D Downloader: [removeTask] removeTask...  
+02-28 00:12:23.113  1202 15874 D Downloader: [messenger_loop]  cmd_info rangeStr=    range= 0 
+02-28 00:12:23.113  1202 15874 D Downloader: [messenger_loop]  cmd_info bCheckDiscFlag = 0   
+02-28 00:12:23.113  1202 15874 D Downloader: [messenger_loop]  download without Drop mode.
+02-28 00:12:23.115  1202 15874 D Downloader: [StartTask] url :http://127.0.0.1:16890/play?enc=base64&url=aHR0cDovLzEyNy4wLjAuMTo4MDUwL2dzbGI/YXBwX3Zlcj0yLjkuOSZiaWFzZW49T1dObE56Tm1NemRqTkdReFl6QXlPRGMzWVRjMk1USTBNelpsT0dNNU56SmZNakV3WmpnNE1XTXlNV1l6WXpKa05EQXpNamhtWXpRNVlXTmxZekEwWWpJJTNEJnN0cmVhbV9pZD1jY3R2MSZ0YWc9bGl2ZSZleHQ9bTN1OCZzaWduPWxpdmVfdHYmcDE9MiZwMj0ydyZzdGF0aW9uPWNjdHYxJnBsYXRpZD0xMCZzcGxhdGlkPTEwMTEmcGxheWlkPTEmdGVybWlkPTImdHNzPXR2dHMmbTN2PTEmcGF5PTAmZm9ybWF0PTEmbXNsaWNlPTUmZXhwZWN0PTMmdnR5cGU9bTN1OCZvc3R5cGU9YW5kcm9pZCZod3R5cGU9YW5kcm9pZA==&ext=m3u8&mediatype=m3u8&tagtime=1488211209
+02-28 00:12:23.126  1202 15874 I Downloader: [header_callback] HTTP/1.1 200 OK
+02-28 00:12:23.126  1202 15874 I Downloader: [header_callback] Server: SuperNode HLS/1.0.71
+02-28 00:12:23.126  1202 15874 I Downloader: [header_callback] Date: Mon, 27 Feb 2017 16:12:23 GMT
+02-28 00:12:23.126  1202 15874 I Downloader: [header_callback] Connection: close
+02-28 00:12:23.126  1202 15874 I Downloader: [header_callback] Content-Length: 605
+02-28 00:12:23.126  1202 15874 I Downloader: [header_callback] Get file size from 'Content-Length:' : 605  ptask->range=0 
+02-28 00:12:23.126  1202 15874 I Downloader: [header_callback] Content-Type: application/x-mpegURL
+02-28 00:12:23.126  1202 15874 I Downloader: [header_callback] Access-Control-Allow-Origin: *
+02-28 00:12:23.126  1202 15874 I Downloader: [header_callback] 
+02-28 00:12:23.126  1202 15874 D Downloader: [receive_data] Find M3u8 data. 
+02-28 00:12:23.126  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:23.126  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:23.126  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:23.126  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:23.132  1202 15873 D DataSource_M3U8: [threadLoop] hls md5sum: 1A68B46921F639378CFC8CE69A66277A
+02-28 00:12:23.132  1202 15873 D DataSource_M3U8: [parseM3U8] M3u8  mTargetDuration = 8
+02-28 00:12:23.132  1202 15873 D DataSource_M3U8: [parseM3U8] pGetData #EXT-X-MEDIA-SEQUENCE:1460633816
+02-28 00:12:23.132  1202 15873 D DataSource_M3U8: [parseM3U8] mediaSequence 1460633816,NextToUpdateMediaSequence 1460633820,LastUpdatedMediaSequence 1460633819
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633816] <= nLastMediaSequence[1460633819]
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633816  mLastMediaSequence: 1460633819 url = http://127.0.0.1:16890/play/slices/1460633816.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633816   
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633817] <= nLastMediaSequence[1460633819]
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633817  mLastMediaSequence: 1460633819 url = http://127.0.0.1:16890/play/slices/1460633817.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633817   
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633818] <= nLastMediaSequence[1460633819]
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633818  mLastMediaSequence: 1460633819 url = http://127.0.0.1:16890/play/slices/1460633818.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633818   
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633819] <= nLastMediaSequence[1460633819]
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633819  mLastMediaSequence: 1460633819 url = http://127.0.0.1:16890/play/slices/1460633819.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633819   
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8]  update playlist[1] ==>> mCurrentMediaSequence : 1460633820  mLastMediaSequence 1460633819  url = http://127.0.0.1:16890/play/slices/1460633820.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633820  
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [parseM3U8] parse M3U8 file done. 
+02-28 00:12:23.133  1202 15873 I DataSource_M3U8: [parseM3U8] M3u8 Live Stream!!!!
+02-28 00:12:23.133  1202 15873 I Downloader: [DiffTimeFromNow] Warning: system clock is not precise !!
+02-28 00:12:23.133  1202 15873 D DataSource_M3U8: [checkShouldStartNext] M3u8 download next url:http://127.0.0.1:16890/play/slices/1460633820.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633820, knowedFileSize:0, mCurDowningIndex:0
+02-28 00:12:23.134  1202 15865 I Downloader: [messenger_loop]  Receive download cmd : 1 
+02-28 00:12:23.134  1202 15865 D Downloader: [removeTask] removeTask...  
+02-28 00:12:23.134  1202 15865 D Downloader: [messenger_loop]  cmd_info rangeStr=    range= 0 
+02-28 00:12:23.134  1202 15865 D Downloader: [messenger_loop]  cmd_info bCheckDiscFlag = 0   
+02-28 00:12:23.134  1202 15865 D Downloader: [messenger_loop]  download without Drop mode.
+02-28 00:12:23.135  1202 15865 D Downloader: [StartTask] url :http://127.0.0.1:16890/play/slices/1460633820.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633820
+02-28 00:12:23.147  1202 15865 I Downloader: [header_callback] HTTP/1.1 200 OK
+02-28 00:12:23.147  1202 15865 I Downloader: [header_callback] Server: SuperNode HLS/1.0.71
+02-28 00:12:23.147  1202 15865 I Downloader: [header_callback] Date: Mon, 27 Feb 2017 16:12:23 GMT
+02-28 00:12:23.147  1202 15865 I Downloader: [header_callback] Connection: close
+02-28 00:12:23.147  1202 15865 I Downloader: [header_callback] Content-Length: 1112960
+02-28 00:12:23.147  1202 15865 I Downloader: [header_callback] Get file size from 'Content-Length:' : 1112960  ptask->range=0 
+02-28 00:12:23.147  1202 15865 I Downloader: [header_callback] Content-Type: application/octet-stream
+02-28 00:12:23.147  1202 15865 I Downloader: [header_callback] Access-Control-Allow-Origin: *
+02-28 00:12:23.147  1202 15865 I Downloader: [header_callback] 
+02-28 00:12:23.147  1202 15865 I Downloader: [prog_cb]  Progress: 0%   (16182/1112960) 
+02-28 00:12:23.162  1987  2676 D NetdConnector: SND -> {39500 bandwidth gettetherstats}
+02-28 00:12:23.163  1199  1635 E CommandListener: gettetherstats
+02-28 00:12:23.163  1199  1635 E Netd    : gettetherstats
+02-28 00:12:23.163  1199  1635 E CommandListener: Tethering stats list completed
+02-28 00:12:23.163  1199  1635 E Netd    : Tethering stats list completed
+02-28 00:12:23.164  1987  2676 D NetdConnector: RMV <- {200 39500 Tethering stats list completed}
+02-28 00:12:23.167  1987  2676 I netstats_mobile_sample: [0,0,0,0,0,0,0,0,0,0,0,0,1488211943168]
+02-28 00:12:23.168  1987  2676 I netstats_wifi_sample: [27574632627,21147461,1326,6539311,27579675508,21187254,3504771961,6598771,27579667801,21187134,3494882803,6532907,1488211943168]
+02-28 00:12:23.170  1987  2676 D NetdConnector: SND -> {39501 bandwidth setglobalalert 2097152}
+02-28 00:12:23.171  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:23.171  1987  2676 D NetdConnector: RMV <- {200 39501 Bandwidth command succeeeded}
+02-28 00:12:23.174  1202 15865 I Downloader: [prog_cb]  Progress: 20%   (229174/1112960) 
+02-28 00:12:23.177  1202 15862 D DataSource_M3U8: [readAt]  Warnig:: less(44890) data in buffer...
+02-28 00:12:23.198  1202 15865 I Downloader: [prog_cb]  Progress: 40%   (458550/1112960) 
+02-28 00:12:23.219  1202 15865 I Downloader: [prog_cb]  Progress: 60%   (671542/1112960) 
+02-28 00:12:23.241  1202 15865 I Downloader: [prog_cb]  Progress: 80%   (900918/1112960) 
+02-28 00:12:23.263  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1112960  >  fileSize :1112960 
+02-28 00:12:23.263  1202 15865 I Downloader: [prog_cb]  Progress: 100%   (1112960/1112960) 
+02-28 00:12:23.263  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1112960  >  fileSize :1112960 
+02-28 00:12:23.263  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1112960  >  fileSize :1112960 
+02-28 00:12:23.263  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1112960  >  fileSize :1112960 
+02-28 00:12:23.274  1202 15862 D DataSource_M3U8: [readAt]  Warnig:: less(23794) data in buffer...
+02-28 00:12:23.309  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:52514214, Bitrate:331250
+02-28 00:12:23.310  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:23.310  1202 15859 D mstplayer: [15859] [AVP] notify_msg_cb: 0x5008
+02-28 00:12:23.310  1202 15859 D mstplayer: [15859] [AVP] update network info, Bandwidth:52514214
+02-28 00:12:23.310  1202 15859 D mstplayer: [15859] [AVP] notify_msg_cb: 0x5009
+02-28 00:12:23.310  1202 15859 D mstplayer: [15859] [AVP] update network info, Bitrate:331250
+02-28 00:12:23.310  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:23.310 15238 15807 W MediaPlayer: info/warning (703, 52514214)
+02-28 00:12:23.310 15238 15807 W MediaPlayer: info/warning (705, 331250)
+02-28 00:12:23.474  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:23.495  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18335) 
+02-28 00:12:23.612  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:23.777  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:23.781     0     0 I Kernel  : <7>[86411.845873] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:24.079  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:24.311  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:52514214, Bitrate:331250
+02-28 00:12:24.311  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:24.316  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:24.352  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:24.382  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:24.429  1987  2679 D WifiNative-wlan0: doString: [SIGNAL_POLL]
+02-28 00:12:24.431  1987  2679 E WifiConfigStore: updateConfiguration freq=2462 BSSID=00:9a:cd:9f:09:bc RSSI=-40 "Honor-PRO"WPA_PSK
+02-28 00:12:24.529  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18361) 
+02-28 00:12:24.685  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:24.690     0     0 I Kernel  : <7>[86412.855867] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:24.689  1987  2680 D WifiHW  : ===>[detect_wifi_device]
+02-28 00:12:24.696 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:24.987  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:25.290  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:25.309  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:52514214, Bitrate:331250
+02-28 00:12:25.310  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:25.315  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:25.581  1987  4436 D WhaleyPlayerManagerService: #requestStr=http://api.tvmore.com.cn/basicservice/location?app=whaleyrom
+02-28 00:12:25.590  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 24 (E:0,D:0,S:0,F:18387) 
+02-28 00:12:25.593  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:25.639  4115  4115 I SLK: TransportManager:[FamilyTransportManager$4.onComplete(Line:1787)]:  get udp Broadcast : []
+02-28 00:12:25.639  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:25.895  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:25.899     0     0 I Kernel  : <7>[86413.865868] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:26.198  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:26.314  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:52514214, Bitrate:331250
+02-28 00:12:26.315  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:26.319  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:26.355  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:26.501  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:26.619  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18413) 
+02-28 00:12:26.696 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:26.700     0     0 I Kernel  : <7>[86414.875875] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:26.803  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:27.106  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:27.146  1202 15874 I Downloader: [messenger_loop]  Receive download cmd : 1 
+02-28 00:12:27.146  1202 15874 D Downloader: [removeTask] removeTask...  
+02-28 00:12:27.146  1202 15874 D Downloader: [messenger_loop]  cmd_info rangeStr=    range= 0 
+02-28 00:12:27.146  1202 15874 D Downloader: [messenger_loop]  cmd_info bCheckDiscFlag = 0   
+02-28 00:12:27.146  1202 15874 D Downloader: [messenger_loop]  download without Drop mode.
+02-28 00:12:27.148  1202 15874 D Downloader: [StartTask] url :http://127.0.0.1:16890/play?enc=base64&url=aHR0cDovLzEyNy4wLjAuMTo4MDUwL2dzbGI/YXBwX3Zlcj0yLjkuOSZiaWFzZW49T1dObE56Tm1NemRqTkdReFl6QXlPRGMzWVRjMk1USTBNelpsT0dNNU56SmZNakV3WmpnNE1XTXlNV1l6WXpKa05EQXpNamhtWXpRNVlXTmxZekEwWWpJJTNEJnN0cmVhbV9pZD1jY3R2MSZ0YWc9bGl2ZSZleHQ9bTN1OCZzaWduPWxpdmVfdHYmcDE9MiZwMj0ydyZzdGF0aW9uPWNjdHYxJnBsYXRpZD0xMCZzcGxhdGlkPTEwMTEmcGxheWlkPTEmdGVybWlkPTImdHNzPXR2dHMmbTN2PTEmcGF5PTAmZm9ybWF0PTEmbXNsaWNlPTUmZXhwZWN0PTMmdnR5cGU9bTN1OCZvc3R5cGU9YW5kcm9pZCZod3R5cGU9YW5kcm9pZA==&ext=m3u8&mediatype=m3u8&tagtime=1488211209
+02-28 00:12:27.164  1202 15874 I Downloader: [header_callback] HTTP/1.1 200 OK
+02-28 00:12:27.166  1202 15874 I Downloader: [header_callback] Server: SuperNode HLS/1.0.71
+02-28 00:12:27.166  1202 15874 I Downloader: [header_callback] Date: Mon, 27 Feb 2017 16:12:27 GMT
+02-28 00:12:27.166  1202 15874 I Downloader: [header_callback] Connection: close
+02-28 00:12:27.166  1202 15874 I Downloader: [header_callback] Content-Length: 605
+02-28 00:12:27.166  1202 15874 I Downloader: [header_callback] Get file size from 'Content-Length:' : 605  ptask->range=0 
+02-28 00:12:27.166  1202 15874 I Downloader: [header_callback] Content-Type: application/x-mpegURL
+02-28 00:12:27.166  1202 15874 I Downloader: [header_callback] Access-Control-Allow-Origin: *
+02-28 00:12:27.166  1202 15874 I Downloader: [header_callback] 
+02-28 00:12:27.166  1202 15874 D Downloader: [receive_data] Find M3u8 data. 
+02-28 00:12:27.166  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:27.166  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:27.166  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:27.166  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:27.175  1202 15873 D DataSource_M3U8: [threadLoop] hls md5sum: 1A68B46921F639378CFC8CE69A66277A
+02-28 00:12:27.175  1202 15873 D DataSource_M3U8: [threadLoop] M3u8 skip same md5 playlist...
+02-28 00:12:27.305  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:52514214, Bitrate:331250
+02-28 00:12:27.306  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:27.308  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:27.409  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:27.436  1987  2679 D WifiNative-wlan0: doString: [SIGNAL_POLL]
+02-28 00:12:27.438  1987  2679 E WifiConfigStore: updateConfiguration freq=2462 BSSID=00:9a:cd:9f:09:bc RSSI=-40 "Honor-PRO"WPA_PSK
+02-28 00:12:27.653  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18439) 
+02-28 00:12:27.665  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:27.711  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:27.715     0     0 I Kernel  : <7>[86415.885871] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:28.014  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:28.183  1987  2676 D NetdConnector: SND -> {39502 bandwidth gettetherstats}
+02-28 00:12:28.184  1199  1635 E CommandListener: gettetherstats
+02-28 00:12:28.184  1199  1635 E Netd    : gettetherstats
+02-28 00:12:28.184  1199  1635 E CommandListener: Tethering stats list completed
+02-28 00:12:28.184  1199  1635 E Netd    : Tethering stats list completed
+02-28 00:12:28.184  1987  2676 D NetdConnector: RMV <- {200 39502 Tethering stats list completed}
+02-28 00:12:28.192  1987  2676 I netstats_mobile_sample: [0,0,0,0,0,0,0,0,0,0,0,0,1488211948193]
+02-28 00:12:28.193  1987  2676 I netstats_wifi_sample: [27574935676,21148546,1326,6540809,27579978167,21188327,3506468902,6600272,27579970460,21188207,3496562084,6534394,1488211948193]
+02-28 00:12:28.195  1987  2676 D NetdConnector: SND -> {39503 bandwidth setglobalalert 2097152}
+02-28 00:12:28.196  1987  2676 D NetdConnector: RMV <- {200 39503 Bandwidth command succeeeded}
+02-28 00:12:28.311  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:52514214, Bitrate:331250
+02-28 00:12:28.312  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:28.316  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:28.317  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:28.357  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:28.620  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:28.687  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18465) 
+02-28 00:12:28.692     0     0 I Kernel  : <7>[86416.895860] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:28.697 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:28.922  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:29.142  1202 15865 D Downloader: [threadLoop] Download instance(0xc4af6040)  is runing... 
+02-28 00:12:29.225  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:29.313  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:52514214, Bitrate:331250
+02-28 00:12:29.315  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:29.315  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:29.527  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:29.592  1202 15874 D Downloader: [threadLoop] Download instance(0xc5922040)  is runing... 
+02-28 00:12:29.687  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18490) 
+02-28 00:12:29.693  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:29.697     0     0 I Kernel  : <7>[86417.905873] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:29.695  1987  2680 D WifiHW  : ===>[detect_wifi_device]
+02-28 00:12:29.830  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:30.133  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:30.316  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:52514214, Bitrate:331250
+02-28 00:12:30.317  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:30.320  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:30.357  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:30.435  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:30.443  1987  2679 D WifiNative-wlan0: doString: [SIGNAL_POLL]
+02-28 00:12:30.448  1987  2679 E WifiConfigStore: updateConfiguration freq=2462 BSSID=00:9a:cd:9f:09:bc RSSI=-40 "Honor-PRO"WPA_PSK
+02-28 00:12:30.606  1987  4436 D WhaleyPlayerManagerService: #requestStr=http://api.tvmore.com.cn/basicservice/location?app=whaleyrom
+02-28 00:12:30.697 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:30.706  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 24 (E:0,D:0,S:0,F:18515) 
+02-28 00:12:30.710     0     0 I Kernel  : <7>[86418.915883] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:30.721  3064 13835 D PersistentConnect: cmd : 268435489 msg : 
+02-28 00:12:30.738  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:31.041  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:31.177  1202 15874 I Downloader: [messenger_loop]  Receive download cmd : 1 
+02-28 00:12:31.178  1202 15874 D Downloader: [removeTask] removeTask...  
+02-28 00:12:31.178  1202 15874 D Downloader: [messenger_loop]  cmd_info rangeStr=    range= 0 
+02-28 00:12:31.178  1202 15874 D Downloader: [messenger_loop]  cmd_info bCheckDiscFlag = 0   
+02-28 00:12:31.178  1202 15874 D Downloader: [messenger_loop]  download without Drop mode.
+02-28 00:12:31.180  1202 15874 D Downloader: [StartTask] url :http://127.0.0.1:16890/play?enc=base64&url=aHR0cDovLzEyNy4wLjAuMTo4MDUwL2dzbGI/YXBwX3Zlcj0yLjkuOSZiaWFzZW49T1dObE56Tm1NemRqTkdReFl6QXlPRGMzWVRjMk1USTBNelpsT0dNNU56SmZNakV3WmpnNE1XTXlNV1l6WXpKa05EQXpNamhtWXpRNVlXTmxZekEwWWpJJTNEJnN0cmVhbV9pZD1jY3R2MSZ0YWc9bGl2ZSZleHQ9bTN1OCZzaWduPWxpdmVfdHYmcDE9MiZwMj0ydyZzdGF0aW9uPWNjdHYxJnBsYXRpZD0xMCZzcGxhdGlkPTEwMTEmcGxheWlkPTEmdGVybWlkPTImdHNzPXR2dHMmbTN2PTEmcGF5PTAmZm9ybWF0PTEmbXNsaWNlPTUmZXhwZWN0PTMmdnR5cGU9bTN1OCZvc3R5cGU9YW5kcm9pZCZod3R5cGU9YW5kcm9pZA==&ext=m3u8&mediatype=m3u8&tagtime=1488211209
+02-28 00:12:31.185  1202 15874 I Downloader: [header_callback] HTTP/1.1 200 OK
+02-28 00:12:31.185  1202 15874 I Downloader: [header_callback] Server: SuperNode HLS/1.0.71
+02-28 00:12:31.186  1202 15874 I Downloader: [header_callback] Date: Mon, 27 Feb 2017 16:12:31 GMT
+02-28 00:12:31.186  1202 15874 I Downloader: [header_callback] Connection: close
+02-28 00:12:31.186  1202 15874 I Downloader: [header_callback] Content-Length: 605
+02-28 00:12:31.186  1202 15874 I Downloader: [header_callback] Get file size from 'Content-Length:' : 605  ptask->range=0 
+02-28 00:12:31.186  1202 15874 I Downloader: [header_callback] Content-Type: application/x-mpegURL
+02-28 00:12:31.186  1202 15874 I Downloader: [header_callback] Access-Control-Allow-Origin: *
+02-28 00:12:31.186  1202 15874 I Downloader: [header_callback] 
+02-28 00:12:31.186  1202 15874 D Downloader: [receive_data] Find M3u8 data. 
+02-28 00:12:31.186  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:31.186  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:31.186  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:31.186  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:31.187  1202 15873 D DataSource_M3U8: [threadLoop] hls md5sum: 9CB53AA1233331281595B94F2ABFF67B
+02-28 00:12:31.187  1202 15873 D DataSource_M3U8: [parseM3U8] M3u8  mTargetDuration = 8
+02-28 00:12:31.187  1202 15873 D DataSource_M3U8: [parseM3U8] pGetData #EXT-X-MEDIA-SEQUENCE:1460633817
+02-28 00:12:31.187  1202 15873 D DataSource_M3U8: [parseM3U8] mediaSequence 1460633817,NextToUpdateMediaSequence 1460633821,LastUpdatedMediaSequence 1460633820
+02-28 00:12:31.187  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633817] <= nLastMediaSequence[1460633820]
+02-28 00:12:31.187  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633817  mLastMediaSequence: 1460633820 url = http://127.0.0.1:16890/play/slices/1460633817.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633817   
+02-28 00:12:31.187  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:31.187  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633818] <= nLastMediaSequence[1460633820]
+02-28 00:12:31.187  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633818  mLastMediaSequence: 1460633820 url = http://127.0.0.1:16890/play/slices/1460633818.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633818   
+02-28 00:12:31.188  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:31.188  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633819] <= nLastMediaSequence[1460633820]
+02-28 00:12:31.188  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633819  mLastMediaSequence: 1460633820 url = http://127.0.0.1:16890/play/slices/1460633819.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633819   
+02-28 00:12:31.188  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:31.188  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633820] <= nLastMediaSequence[1460633820]
+02-28 00:12:31.188  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633820  mLastMediaSequence: 1460633820 url = http://127.0.0.1:16890/play/slices/1460633820.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633820   
+02-28 00:12:31.188  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:31.188  1202 15873 D DataSource_M3U8: [parseM3U8]  update playlist[1] ==>> mCurrentMediaSequence : 1460633821  mLastMediaSequence 1460633820  url = http://127.0.0.1:16890/play/slices/1460633821.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633821  
+02-28 00:12:31.188  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:31.188  1202 15873 D DataSource_M3U8: [parseM3U8] parse M3U8 file done. 
+02-28 00:12:31.188  1202 15873 I DataSource_M3U8: [parseM3U8] M3u8 Live Stream!!!!
+02-28 00:12:31.188  1202 15873 I Downloader: [DiffTimeFromNow] Warning: system clock is not precise !!
+02-28 00:12:31.188  1202 15873 D DataSource_M3U8: [checkShouldStartNext] M3u8 download next url:http://127.0.0.1:16890/play/slices/1460633821.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633821, knowedFileSize:0, mCurDowningIndex:0
+02-28 00:12:31.188  1202 15865 I Downloader: [messenger_loop]  Receive download cmd : 1 
+02-28 00:12:31.188  1202 15865 D Downloader: [removeTask] removeTask...  
+02-28 00:12:31.189  1202 15865 D Downloader: [messenger_loop]  cmd_info rangeStr=    range= 0 
+02-28 00:12:31.189  1202 15865 D Downloader: [messenger_loop]  cmd_info bCheckDiscFlag = 0   
+02-28 00:12:31.189  1202 15865 D Downloader: [messenger_loop]  download without Drop mode.
+02-28 00:12:31.190  1202 15865 D Downloader: [StartTask] url :http://127.0.0.1:16890/play/slices/1460633821.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633821
+02-28 00:12:31.201  1202 15865 I Downloader: [header_callback] HTTP/1.1 200 OK
+02-28 00:12:31.202  1202 15865 I Downloader: [header_callback] Server: SuperNode HLS/1.0.71
+02-28 00:12:31.202  1202 15865 I Downloader: [header_callback] Date: Mon, 27 Feb 2017 16:12:31 GMT
+02-28 00:12:31.202  1202 15865 I Downloader: [header_callback] Connection: close
+02-28 00:12:31.202  1202 15865 I Downloader: [header_callback] Content-Length: 1383680
+02-28 00:12:31.202  1202 15865 I Downloader: [header_callback] Get file size from 'Content-Length:' : 1383680  ptask->range=0 
+02-28 00:12:31.202  1202 15865 I Downloader: [header_callback] Content-Type: application/octet-stream
+02-28 00:12:31.202  1202 15865 I Downloader: [header_callback] Access-Control-Allow-Origin: *
+02-28 00:12:31.202  1202 15865 I Downloader: [header_callback] 
+02-28 00:12:31.202  1202 15865 I Downloader: [prog_cb]  Progress: 0%   (16182/1383680) 
+02-28 00:12:31.216  1987  2676 D NetdConnector: SND -> {39504 bandwidth gettetherstats}
+02-28 00:12:31.216  1199  1635 E CommandListener: gettetherstats
+02-28 00:12:31.216  1199  1635 E Netd    : gettetherstats
+02-28 00:12:31.216  1199  1635 E CommandListener: Tethering stats list completed
+02-28 00:12:31.216  1199  1635 E Netd    : Tethering stats list completed
+02-28 00:12:31.217  1987  2676 D NetdConnector: RMV <- {200 39504 Tethering stats list completed}
+02-28 00:12:31.220  1987  2676 I netstats_mobile_sample: [0,0,0,0,0,0,0,0,0,0,0,0,1488211951221]
+02-28 00:12:31.221  1987  2676 I netstats_wifi_sample: [27575606072,21149522,1326,6541638,27580648249,21189295,3507174398,6601102,27580640382,21189174,3497288424,6535238,1488211951221]
+02-28 00:12:31.223  1987  2676 D NetdConnector: SND -> {39505 bandwidth setglobalalert 2097152}
+02-28 00:12:31.223  1202 15865 I Downloader: [prog_cb]  Progress: 20%   (278326/1383680) 
+02-28 00:12:31.224  1987  2676 D NetdConnector: RMV <- {200 39505 Bandwidth command succeeeded}
+02-28 00:12:31.247  1202 15865 I Downloader: [prog_cb]  Progress: 40%   (556854/1383680) 
+02-28 00:12:31.269  1202 15865 I Downloader: [prog_cb]  Progress: 60%   (835382/1383680) 
+02-28 00:12:31.291  1202 15865 I Downloader: [prog_cb]  Progress: 80%   (1113910/1383680) 
+02-28 00:12:31.310  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:68136378, Bitrate:1782500
+02-28 00:12:31.311  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:31.312  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1383680  >  fileSize :1383680 
+02-28 00:12:31.312  1202 15865 I Downloader: [prog_cb]  Progress: 100%   (1383680/1383680) 
+02-28 00:12:31.313  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1383680  >  fileSize :1383680 
+02-28 00:12:31.313  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1383680  >  fileSize :1383680 
+02-28 00:12:31.313  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1383680  >  fileSize :1383680 
+02-28 00:12:31.316  1202 15859 D mstplayer: [15859] [AVP] notify_msg_cb: 0x5008
+02-28 00:12:31.316  1202 15859 D mstplayer: [15859] [AVP] update network info, Bandwidth:68136378
+02-28 00:12:31.316  1202 15859 D mstplayer: [15859] [AVP] notify_msg_cb: 0x5009
+02-28 00:12:31.316  1202 15859 D mstplayer: [15859] [AVP] update network info, Bitrate:1782500
+02-28 00:12:31.316  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:31.316 15238 15254 W MediaPlayer: info/warning (703, 68136378)
+02-28 00:12:31.316 15238 15254 W MediaPlayer: info/warning (705, 1782500)
+02-28 00:12:31.326  1202 15862 D DataSource_M3U8: [readAt]  Warnig:: less(32264) data in buffer...
+02-28 00:12:31.343  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:31.646  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:31.720  4115  4115 I SLK: TransportManager:[FamilyTransportManager$4.onComplete(Line:1787)]:  get udp Broadcast : []
+02-28 00:12:31.725     0     0 I Kernel  : <7>[86419.925871] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:31.721  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:31.739  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18541) 
+02-28 00:12:31.949  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:32.252  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:32.319  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:67954032, Bitrate:1782500
+02-28 00:12:32.319  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:32.324  1202 15859 D mstplayer: [15859] [AVP] notify_msg_cb: 0x5008
+02-28 00:12:32.324  1202 15859 D mstplayer: [15859] [AVP] update network info, Bandwidth:67954032
+02-28 00:12:32.324  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:32.324 15238 15253 W MediaPlayer: info/warning (703, 67954032)
+02-28 00:12:32.360  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:32.555  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:32.698 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:32.773  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18567) 
+02-28 00:12:32.777     0     0 I Kernel  : <7>[86420.935860] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:32.858  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:33.160  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:33.316  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:67954032, Bitrate:1782500
+02-28 00:12:33.317  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:33.318  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:33.449  1987  2679 D WifiNative-wlan0: doString: [SIGNAL_POLL]
+02-28 00:12:33.452  1987  2679 E WifiConfigStore: updateConfiguration freq=2462 BSSID=00:9a:cd:9f:09:bc RSSI=-40 "Honor-PRO"WPA_PSK
+02-28 00:12:33.463  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:33.746  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:33.750     0     0 I Kernel  : <7>[86421.945880] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:33.765  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:33.808  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18593) 
+02-28 00:12:34.068  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:34.321  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:67954032, Bitrate:1782500
+02-28 00:12:34.322  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:34.325  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:34.362  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:34.370  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:34.673  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:34.699 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:34.700  1987  2680 D WifiHW  : ===>[detect_wifi_device]
+02-28 00:12:34.865  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 24 (E:0,D:0,S:0,F:18619) 
+02-28 00:12:34.869     0     0 I Kernel  : <7>[86422.955866] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:34.976  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:35.200  1202 15874 I Downloader: [messenger_loop]  Receive download cmd : 1 
+02-28 00:12:35.200  1202 15874 D Downloader: [removeTask] removeTask...  
+02-28 00:12:35.200  1202 15874 D Downloader: [messenger_loop]  cmd_info rangeStr=    range= 0 
+02-28 00:12:35.200  1202 15874 D Downloader: [messenger_loop]  cmd_info bCheckDiscFlag = 0   
+02-28 00:12:35.200  1202 15874 D Downloader: [messenger_loop]  download without Drop mode.
+02-28 00:12:35.206  1202 15874 D Downloader: [StartTask] url :http://127.0.0.1:16890/play?enc=base64&url=aHR0cDovLzEyNy4wLjAuMTo4MDUwL2dzbGI/YXBwX3Zlcj0yLjkuOSZiaWFzZW49T1dObE56Tm1NemRqTkdReFl6QXlPRGMzWVRjMk1USTBNelpsT0dNNU56SmZNakV3WmpnNE1XTXlNV1l6WXpKa05EQXpNamhtWXpRNVlXTmxZekEwWWpJJTNEJnN0cmVhbV9pZD1jY3R2MSZ0YWc9bGl2ZSZleHQ9bTN1OCZzaWduPWxpdmVfdHYmcDE9MiZwMj0ydyZzdGF0aW9uPWNjdHYxJnBsYXRpZD0xMCZzcGxhdGlkPTEwMTEmcGxheWlkPTEmdGVybWlkPTImdHNzPXR2dHMmbTN2PTEmcGF5PTAmZm9ybWF0PTEmbXNsaWNlPTUmZXhwZWN0PTMmdnR5cGU9bTN1OCZvc3R5cGU9YW5kcm9pZCZod3R5cGU9YW5kcm9pZA==&ext=m3u8&mediatype=m3u8&tagtime=1488211209
+02-28 00:12:35.210  1202 15874 I Downloader: [header_callback] HTTP/1.1 200 OK
+02-28 00:12:35.211  1202 15874 I Downloader: [header_callback] Server: SuperNode HLS/1.0.71
+02-28 00:12:35.211  1202 15874 I Downloader: [header_callback] Date: Mon, 27 Feb 2017 16:12:35 GMT
+02-28 00:12:35.211  1202 15874 I Downloader: [header_callback] Connection: close
+02-28 00:12:35.211  1202 15874 I Downloader: [header_callback] Content-Length: 605
+02-28 00:12:35.211  1202 15874 I Downloader: [header_callback] Get file size from 'Content-Length:' : 605  ptask->range=0 
+02-28 00:12:35.211  1202 15874 I Downloader: [header_callback] Content-Type: application/x-mpegURL
+02-28 00:12:35.211  1202 15874 I Downloader: [header_callback] Access-Control-Allow-Origin: *
+02-28 00:12:35.211  1202 15874 I Downloader: [header_callback] 
+02-28 00:12:35.211  1202 15874 D Downloader: [receive_data] Find M3u8 data. 
+02-28 00:12:35.211  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:35.211  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:35.211  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:35.211  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:35.220  1202 15873 D DataSource_M3U8: [threadLoop] hls md5sum: 20A01624BF35AABFB87A845255DD17BF
+02-28 00:12:35.220  1202 15873 D DataSource_M3U8: [parseM3U8] M3u8  mTargetDuration = 8
+02-28 00:12:35.220  1202 15873 D DataSource_M3U8: [parseM3U8] pGetData #EXT-X-MEDIA-SEQUENCE:1460633818
+02-28 00:12:35.220  1202 15873 D DataSource_M3U8: [parseM3U8] mediaSequence 1460633818,NextToUpdateMediaSequence 1460633822,LastUpdatedMediaSequence 1460633821
+02-28 00:12:35.220  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633818] <= nLastMediaSequence[1460633821]
+02-28 00:12:35.220  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633818  mLastMediaSequence: 1460633821 url = http://127.0.0.1:16890/play/slices/1460633818.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633818   
+02-28 00:12:35.220  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:35.220  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633819] <= nLastMediaSequence[1460633821]
+02-28 00:12:35.220  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633819  mLastMediaSequence: 1460633821 url = http://127.0.0.1:16890/play/slices/1460633819.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633819   
+02-28 00:12:35.220  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:35.221  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633820] <= nLastMediaSequence[1460633821]
+02-28 00:12:35.221  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633820  mLastMediaSequence: 1460633821 url = http://127.0.0.1:16890/play/slices/1460633820.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633820   
+02-28 00:12:35.221  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:35.221  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633821] <= nLastMediaSequence[1460633821]
+02-28 00:12:35.221  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633821  mLastMediaSequence: 1460633821 url = http://127.0.0.1:16890/play/slices/1460633821.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633821   
+02-28 00:12:35.221  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:35.221  1202 15873 D DataSource_M3U8: [parseM3U8]  update playlist[1] ==>> mCurrentMediaSequence : 1460633822  mLastMediaSequence 1460633821  url = http://127.0.0.1:16890/play/slices/1460633822.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633822  
+02-28 00:12:35.221  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:35.221  1202 15873 D DataSource_M3U8: [parseM3U8] parse M3U8 file done. 
+02-28 00:12:35.221  1202 15873 I DataSource_M3U8: [parseM3U8] M3u8 Live Stream!!!!
+02-28 00:12:35.221  1202 15873 I Downloader: [DiffTimeFromNow] Warning: system clock is not precise !!
+02-28 00:12:35.221  1202 15873 D DataSource_M3U8: [checkShouldStartNext] M3u8 download next url:http://127.0.0.1:16890/play/slices/1460633822.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633822, knowedFileSize:0, mCurDowningIndex:0
+02-28 00:12:35.222  1202 15865 I Downloader: [messenger_loop]  Receive download cmd : 1 
+02-28 00:12:35.222  1202 15865 D Downloader: [removeTask] removeTask...  
+02-28 00:12:35.222  1202 15865 D Downloader: [messenger_loop]  cmd_info rangeStr=    range= 0 
+02-28 00:12:35.222  1202 15865 D Downloader: [messenger_loop]  cmd_info bCheckDiscFlag = 0   
+02-28 00:12:35.222  1202 15865 D Downloader: [messenger_loop]  download without Drop mode.
+02-28 00:12:35.224  1202 15865 D Downloader: [StartTask] url :http://127.0.0.1:16890/play/slices/1460633822.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633822
+02-28 00:12:35.235  1202 15865 I Downloader: [header_callback] HTTP/1.1 200 OK
+02-28 00:12:35.235  1202 15865 I Downloader: [header_callback] Server: SuperNode HLS/1.0.71
+02-28 00:12:35.235  1202 15865 I Downloader: [header_callback] Date: Mon, 27 Feb 2017 16:12:35 GMT
+02-28 00:12:35.235  1202 15865 I Downloader: [header_callback] Connection: close
+02-28 00:12:35.235  1202 15865 I Downloader: [header_callback] Content-Length: 1150560
+02-28 00:12:35.235  1202 15865 I Downloader: [header_callback] Get file size from 'Content-Length:' : 1150560  ptask->range=0 
+02-28 00:12:35.235  1202 15865 I Downloader: [header_callback] Content-Type: application/octet-stream
+02-28 00:12:35.235  1202 15865 I Downloader: [header_callback] Access-Control-Allow-Origin: *
+02-28 00:12:35.235  1202 15865 I Downloader: [header_callback] 
+02-28 00:12:35.235  1202 15865 I Downloader: [prog_cb]  Progress: 0%   (16182/1150560) 
+02-28 00:12:35.240  1987  2676 D NetdConnector: SND -> {39506 bandwidth gettetherstats}
+02-28 00:12:35.240  1199  1635 E CommandListener: gettetherstats
+02-28 00:12:35.240  1199  1635 E Netd    : gettetherstats
+02-28 00:12:35.240  1199  1635 E CommandListener: Tethering stats list completed
+02-28 00:12:35.240  1199  1635 E Netd    : Tethering stats list completed
+02-28 00:12:35.240  1987  2676 D NetdConnector: RMV <- {200 39506 Tethering stats list completed}
+02-28 00:12:35.249  1987  2676 I netstats_mobile_sample: [0,0,0,0,0,0,0,0,0,0,0,0,1488211955250]
+02-28 00:12:35.249  1987  2676 I netstats_wifi_sample: [27576251627,21150395,1326,6542536,27581293452,21190158,3507898691,6602002,27581285745,21190038,3498012565,6536137,1488211955250]
+02-28 00:12:35.251  1987  2676 D NetdConnector: SND -> {39507 bandwidth setglobalalert 2097152}
+02-28 00:12:35.252  1987  2676 D NetdConnector: RMV <- {200 39507 Bandwidth command succeeeded}
+02-28 00:12:35.262  1202 15865 I Downloader: [prog_cb]  Progress: 20%   (245558/1150560) 
+02-28 00:12:35.278  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:35.283  1202 15865 I Downloader: [prog_cb]  Progress: 40%   (474934/1150560) 
+02-28 00:12:35.301  1202 15865 I Downloader: [prog_cb]  Progress: 60%   (704310/1150560) 
+02-28 00:12:35.315  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:57963612, Bitrate:1921250
+02-28 00:12:35.316  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:35.318  1202 15859 D mstplayer: [15859] [AVP] notify_msg_cb: 0x5008
+02-28 00:12:35.318  1202 15859 D mstplayer: [15859] [AVP] update network info, Bandwidth:57963612
+02-28 00:12:35.318  1202 15859 D mstplayer: [15859] [AVP] notify_msg_cb: 0x5009
+02-28 00:12:35.318  1202 15859 D mstplayer: [15859] [AVP] update network info, Bitrate:1921250
+02-28 00:12:35.318  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:35.318 15238 15254 W MediaPlayer: info/warning (703, 57963612)
+02-28 00:12:35.318 15238 15254 W MediaPlayer: info/warning (705, 1921250)
+02-28 00:12:35.319  1202 15865 I Downloader: [prog_cb]  Progress: 80%   (933686/1150560) 
+02-28 00:12:35.337  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1150560  >  fileSize :1150560 
+02-28 00:12:35.337  1202 15865 I Downloader: [prog_cb]  Progress: 100%   (1150560/1150560) 
+02-28 00:12:35.337  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1150560  >  fileSize :1150560 
+02-28 00:12:35.337  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1150560  >  fileSize :1150560 
+02-28 00:12:35.338  1202 15865 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 1150560  >  fileSize :1150560 
+02-28 00:12:35.348  1202 15862 D DataSource_M3U8: [readAt]  Warnig:: less(44856) data in buffer...
+02-28 00:12:35.581  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:35.631  1987  4436 D WhaleyPlayerManagerService: #requestStr=http://api.tvmore.com.cn/basicservice/location?app=whaleyrom
+02-28 00:12:35.777  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:35.781     0     0 I Kernel  : <7>[86423.965877] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:35.883  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:35.900  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18645) 
+02-28 00:12:36.186  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:36.317  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:60999372, Bitrate:1921250
+02-28 00:12:36.318  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:36.323  1202 15859 D mstplayer: [15859] [AVP] notify_msg_cb: 0x5008
+02-28 00:12:36.323  1202 15859 D mstplayer: [15859] [AVP] update network info, Bandwidth:60999372
+02-28 00:12:36.323  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:36.323 15238 15253 W MediaPlayer: info/warning (703, 60999372)
+02-28 00:12:36.362  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:36.456  1987  2679 D WifiNative-wlan0: doString: [SIGNAL_POLL]
+02-28 00:12:36.459  1987  2679 E WifiConfigStore: updateConfiguration freq=2462 BSSID=00:9a:cd:9f:09:bc RSSI=-40 "Honor-PRO"WPA_PSK
+02-28 00:12:36.489  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:36.699 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:36.791  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:36.802     0     0 I Kernel  : <7>[86424.975907] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:36.934  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18671) 
+02-28 00:12:37.094  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:37.323  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:60999372, Bitrate:1921250
+02-28 00:12:37.324  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:37.324  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:37.397  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:37.699  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:37.803  4115  4115 I SLK: TransportManager:[FamilyTransportManager$4.onComplete(Line:1787)]:  get udp Broadcast : []
+02-28 00:12:37.807     0     0 I Kernel  : <7>[86425.985881] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:37.803  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:37.968  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18697) 
+02-28 00:12:38.002  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:38.304  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:38.322  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:60999372, Bitrate:1921250
+02-28 00:12:38.323  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:38.323  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:38.365  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:38.607  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:38.700 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:38.909  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:38.913     0     0 I Kernel  : <7>[86426.995872] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:39.026  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 24 (E:0,D:0,S:0,F:18723) 
+02-28 00:12:39.142  1202 15865 D Downloader: [threadLoop] Download instance(0xc4af6040)  is runing... 
+02-28 00:12:39.212  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:39.234  1202 15874 I Downloader: [messenger_loop]  Receive download cmd : 1 
+02-28 00:12:39.234  1202 15874 D Downloader: [removeTask] removeTask...  
+02-28 00:12:39.234  1202 15874 D Downloader: [messenger_loop]  cmd_info rangeStr=    range= 0 
+02-28 00:12:39.234  1202 15874 D Downloader: [messenger_loop]  cmd_info bCheckDiscFlag = 0   
+02-28 00:12:39.234  1202 15874 D Downloader: [messenger_loop]  download without Drop mode.
+02-28 00:12:39.236  1202 15874 D Downloader: [StartTask] url :http://127.0.0.1:16890/play?enc=base64&url=aHR0cDovLzEyNy4wLjAuMTo4MDUwL2dzbGI/YXBwX3Zlcj0yLjkuOSZiaWFzZW49T1dObE56Tm1NemRqTkdReFl6QXlPRGMzWVRjMk1USTBNelpsT0dNNU56SmZNakV3WmpnNE1XTXlNV1l6WXpKa05EQXpNamhtWXpRNVlXTmxZekEwWWpJJTNEJnN0cmVhbV9pZD1jY3R2MSZ0YWc9bGl2ZSZleHQ9bTN1OCZzaWduPWxpdmVfdHYmcDE9MiZwMj0ydyZzdGF0aW9uPWNjdHYxJnBsYXRpZD0xMCZzcGxhdGlkPTEwMTEmcGxheWlkPTEmdGVybWlkPTImdHNzPXR2dHMmbTN2PTEmcGF5PTAmZm9ybWF0PTEmbXNsaWNlPTUmZXhwZWN0PTMmdnR5cGU9bTN1OCZvc3R5cGU9YW5kcm9pZCZod3R5cGU9YW5kcm9pZA==&ext=m3u8&mediatype=m3u8&tagtime=1488211209
+02-28 00:12:39.240  1202 15874 I Downloader: [header_callback] HTTP/1.1 200 OK
+02-28 00:12:39.241  1202 15874 I Downloader: [header_callback] Server: SuperNode HLS/1.0.71
+02-28 00:12:39.241  1202 15874 I Downloader: [header_callback] Date: Mon, 27 Feb 2017 16:12:39 GMT
+02-28 00:12:39.241  1202 15874 I Downloader: [header_callback] Connection: close
+02-28 00:12:39.241  1202 15874 I Downloader: [header_callback] Content-Length: 605
+02-28 00:12:39.241  1202 15874 I Downloader: [header_callback] Get file size from 'Content-Length:' : 605  ptask->range=0 
+02-28 00:12:39.241  1202 15874 I Downloader: [header_callback] Content-Type: application/x-mpegURL
+02-28 00:12:39.241  1202 15874 I Downloader: [header_callback] Access-Control-Allow-Origin: *
+02-28 00:12:39.241  1202 15874 I Downloader: [header_callback] 
+02-28 00:12:39.241  1202 15874 D Downloader: [receive_data] Find M3u8 data. 
+02-28 00:12:39.241  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:39.241  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:39.241  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:39.241  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:39.243  1202 15873 D DataSource_M3U8: [threadLoop] hls md5sum: 20A01624BF35AABFB87A845255DD17BF
+02-28 00:12:39.243  1202 15873 D DataSource_M3U8: [threadLoop] M3u8 skip same md5 playlist...
+02-28 00:12:39.325  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:60999372, Bitrate:1921250
+02-28 00:12:39.326  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:39.327  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:39.463  1987  2679 D WifiNative-wlan0: doString: [SIGNAL_POLL]
+02-28 00:12:39.468  1987  2679 E WifiConfigStore: updateConfiguration freq=2462 BSSID=00:9a:cd:9f:09:bc RSSI=-40 "Honor-PRO"WPA_PSK
+02-28 00:12:39.518  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:39.593  1202 15874 D Downloader: [threadLoop] Download instance(0xc5922040)  is runing... 
+02-28 00:12:39.705  1987  2680 D WifiHW  : ===>[detect_wifi_device]
+02-28 00:12:39.820  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:39.824     0     0 I Kernel  : <7>[86428.005873] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:39.829  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:40.058  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18749) 
+02-28 00:12:40.123  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:40.328  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:60999372, Bitrate:1921250
+02-28 00:12:40.329  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:40.333  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:40.365  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:40.426  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:40.659  1987  4436 D WhaleyPlayerManagerService: #requestStr=http://api.tvmore.com.cn/basicservice/location?app=whaleyrom
+02-28 00:12:40.700 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:40.725  3064 13835 D PersistentConnect: cmd : 268435489 msg : 
+02-28 00:12:40.728  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:41.031  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:41.035     0     0 I Kernel  : <7>[86429.015858] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:41.093  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18775) 
+02-28 00:12:41.326  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:60999372, Bitrate:1921250
+02-28 00:12:41.326  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:41.327  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:41.333  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:41.636  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:41.856  4115  4115 I SLK: :[BroadcastManager$2.onSuccess(Line:197)]: send broadcast success : Bundle[{data=[]}]
+02-28 00:12:41.860     0     0 I Kernel  : <7>[86430.025888] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:41.941  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:42.127  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18801) 
+02-28 00:12:42.244  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:42.324  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:60999372, Bitrate:1921250
+02-28 00:12:42.325  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
+02-28 00:12:42.326  1202 15859 D mstplayer: [15859] [AVP] streaming event 0x5007, size 16, data 0x0xd6986388
+02-28 00:12:42.370  3042  3042 I HeliosLauncher*TimeItemView: mRunnableTime synctime=true
+02-28 00:12:42.476  1987  2679 D WifiNative-wlan0: doString: [SIGNAL_POLL]
+02-28 00:12:42.478  1987  2679 E WifiConfigStore: updateConfiguration freq=2462 BSSID=00:9a:cd:9f:09:bc RSSI=-40 "Honor-PRO"WPA_PSK
+02-28 00:12:42.547  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:42.645  1202 15873 D DataSource_M3U8: [threadLoop] M3u8 UpdatePlaylistThread[0xdb90c040]  is runing... 
+02-28 00:12:42.701 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
+02-28 00:12:42.849  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:42.854     0     0 I Kernel  : <7>[86431.035865] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
+02-28 00:12:43.126  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 25 (E:0,D:0,S:0,F:18826) 
+02-28 00:12:43.152  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:43.245  1202 15874 I Downloader: [messenger_loop]  Receive download cmd : 1 
+02-28 00:12:43.245  1202 15874 D Downloader: [removeTask] removeTask...  
+02-28 00:12:43.245  1202 15874 D Downloader: [messenger_loop]  cmd_info rangeStr=    range= 0 
+02-28 00:12:43.245  1202 15874 D Downloader: [messenger_loop]  cmd_info bCheckDiscFlag = 0   
+02-28 00:12:43.245  1202 15874 D Downloader: [messenger_loop]  download without Drop mode.
+02-28 00:12:43.247  1202 15874 D Downloader: [StartTask] url :http://127.0.0.1:16890/play?enc=base64&url=aHR0cDovLzEyNy4wLjAuMTo4MDUwL2dzbGI/YXBwX3Zlcj0yLjkuOSZiaWFzZW49T1dObE56Tm1NemRqTkdReFl6QXlPRGMzWVRjMk1USTBNelpsT0dNNU56SmZNakV3WmpnNE1XTXlNV1l6WXpKa05EQXpNamhtWXpRNVlXTmxZekEwWWpJJTNEJnN0cmVhbV9pZD1jY3R2MSZ0YWc9bGl2ZSZleHQ9bTN1OCZzaWduPWxpdmVfdHYmcDE9MiZwMj0ydyZzdGF0aW9uPWNjdHYxJnBsYXRpZD0xMCZzcGxhdGlkPTEwMTEmcGxheWlkPTEmdGVybWlkPTImdHNzPXR2dHMmbTN2PTEmcGF5PTAmZm9ybWF0PTEmbXNsaWNlPTUmZXhwZWN0PTMmdnR5cGU9bTN1OCZvc3R5cGU9YW5kcm9pZCZod3R5cGU9YW5kcm9pZA==&ext=m3u8&mediatype=m3u8&tagtime=1488211209
+02-28 00:12:43.252  1202 15874 I Downloader: [header_callback] HTTP/1.1 200 OK
+02-28 00:12:43.252  1202 15874 I Downloader: [header_callback] Server: SuperNode HLS/1.0.71
+02-28 00:12:43.252  1202 15874 I Downloader: [header_callback] Date: Mon, 27 Feb 2017 16:12:43 GMT
+02-28 00:12:43.252  1202 15874 I Downloader: [header_callback] Connection: close
+02-28 00:12:43.252  1202 15874 I Downloader: [header_callback] Content-Length: 605
+02-28 00:12:43.252  1202 15874 I Downloader: [header_callback] Get file size from 'Content-Length:' : 605  ptask->range=0 
+02-28 00:12:43.252  1202 15874 I Downloader: [header_callback] Content-Type: application/x-mpegURL
+02-28 00:12:43.252  1202 15874 I Downloader: [header_callback] Access-Control-Allow-Origin: *
+02-28 00:12:43.252  1202 15874 I Downloader: [header_callback] 
+02-28 00:12:43.252  1202 15874 D Downloader: [receive_data] Find M3u8 data. 
+02-28 00:12:43.252  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:43.252  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:43.252  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:43.253  1202 15874 I Downloader: [prog_cb]  warning:: mbChunkDataDone .downloadedSize : 605  >  fileSize :605 
+02-28 00:12:43.255  1202 15873 D DataSource_M3U8: [threadLoop] hls md5sum: 7342613B7D1A8B6A0F5106CEA729353A
+02-28 00:12:43.255  1202 15873 D DataSource_M3U8: [parseM3U8] M3u8  mTargetDuration = 8
+02-28 00:12:43.255  1202 15873 D DataSource_M3U8: [parseM3U8] pGetData #EXT-X-MEDIA-SEQUENCE:1460633819
+02-28 00:12:43.255  1202 15873 D DataSource_M3U8: [parseM3U8] mediaSequence 1460633819,NextToUpdateMediaSequence 1460633823,LastUpdatedMediaSequence 1460633822
+02-28 00:12:43.255  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633819] <= nLastMediaSequence[1460633822]
+02-28 00:12:43.255  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633819  mLastMediaSequence: 1460633822 url = http://127.0.0.1:16890/play/slices/1460633819.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633819   
+02-28 00:12:43.255  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633820] <= nLastMediaSequence[1460633822]
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633820  mLastMediaSequence: 1460633822 url = http://127.0.0.1:16890/play/slices/1460633820.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633820   
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633821] <= nLastMediaSequence[1460633822]
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633821  mLastMediaSequence: 1460633822 url = http://127.0.0.1:16890/play/slices/1460633821.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633821   
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8] skip this ts because of nCurrentMediaSequence[1460633822] <= nLastMediaSequence[1460633822]
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8]  Don't update  playlist[1] ==>> mCurrentMediaSequence : 1460633822  mLastMediaSequence: 1460633822 url = http://127.0.0.1:16890/play/slices/1460633822.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633822   
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8]  update playlist[1] ==>> mCurrentMediaSequence : 1460633823  mLastMediaSequence 1460633822  url = http://127.0.0.1:16890/play/slices/1460633823.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633823  
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8] Read a line of ts path,CurrentMediaSequence plus one
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [parseM3U8] parse M3U8 file done. 
+02-28 00:12:43.256  1202 15873 I DataSource_M3U8: [parseM3U8] M3u8 Live Stream!!!!
+02-28 00:12:43.256  1202 15873 I Downloader: [DiffTimeFromNow] Warning: system clock is not precise !!
+02-28 00:12:43.256  1202 15873 D DataSource_M3U8: [checkShouldStartNext] M3u8 download next url:http://127.0.0.1:16890/play/slices/1460633823.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633823, knowedFileSize:0, mCurDowningIndex:0
+02-28 00:12:43.257  1202 15865 I Downloader: [messenger_loop]  Receive download cmd : 1 
+02-28 00:12:43.257  1202 15865 D Downloader: [removeTask] removeTask...  
+02-28 00:12:43.257  1202 15865 D Downloader: [messenger_loop]  cmd_info rangeStr=    range= 0 
+02-28 00:12:43.257  1202 15865 D Downloader: [messenger_loop]  cmd_info bCheckDiscFlag = 0   
+02-28 00:12:43.257  1202 15865 D Downloader: [messenger_loop]  download without Drop mode.
+02-28 00:12:43.259  1202 15865 D Downloader: [StartTask] url :http://127.0.0.1:16890/play/slices/1460633823.ts?id=8c6ced4c563f47380ab36b816a6f3e40&segment=1460633823
+02-28 00:12:43.267  1202 15865 I Downloader: [header_callback] HTTP/1.1 200 OK
+02-28 00:12:43.267  1202 15865 I Downloader: [header_callback] Server: SuperNode HLS/1.0.71
+02-28 00:12:43.267  1202 15865 I Downloader: [header_callback] Date: Mon, 27 Feb 2017 16:12:43 GMT
+02-28 00:12:43.267  1202 15865 I Downloader: [header_callback] Connection: close
+02-28 00:12:43.267  1202 15865 I Downloader: [header_callback] Content-Length: 947896
+02-28 00:12:43.267  1202 15865 I Downloader: [header_callback] Get file size from 'Content-Length:' : 947896  ptask->range=0 
+02-28 00:12:43.267  1202 15865 I Downloader: [header_callback] Content-Type: application/octet-stream
+02-28 00:12:43.267  1202 15865 I Downloader: [header_callback] Access-Control-Allow-Origin: *

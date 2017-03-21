@@ -1,0 +1,4 @@
+[
+  {"url":"../log.txt","bugid":"日志1号","timestr":"2017-03-20"},
+{"url":"../logcat.log","bugid":"日志2号","timestr":"2017-03-20"}
+]
