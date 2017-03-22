@@ -1,12 +1,12 @@
 ﻿02-28 00:12:16.507  3290  3290 D HeliosBIReceiver: logUrl : 28 strategy : 1 log : {"logVersion":"02","logType":"event","happenTime":1488211936488,"eventId":"whaley-rom-network-detect","params":{"pingdatas":"63,55,62,54,55,55,59,52,56,91,99,57,87,57,54,55,70,53,56,58,"}}
 02-28 00:12:16.507  3290  3290 D BILogManager: logUrl : TV_ROMLOG strategy : DEFAULT log : {"logVersion":"02","logType":"event","happenTime":1488211936488,"eventId":"whaley-rom-network-detect","params":{"pingdatas":"63,55,62,54,55,55,59,52,56,91,99,57,87,57,54,55,70,53,56,58,"}}
-02-28 00:12:16.513  1207  1207 I tvos url:http://vod.ptwhaley.gitv.tv/Service/getLiveStatus   : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:16.513  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
 02-28 00:12:16.515  3290  3290 D BILogDBManager: saveLog-rowId : 2065
 02-28 00:12:16.516  3290  3290 D BILogDBManager: getCount-count : 1
 02-28 00:12:16.692 13440 13476 E LocalSocketTransmitVoice: [2820] connect to server failed
 02-28 00:12:16.696     0     0 I Kernel  : <7>[86404.775896] [34mFunction = Mdrv_CPU_T_sensor_Check_callback, Line = 974, do Mdrv_CPU_T_sensor_Check_callback: 1500000, forcibly_set_target_flag is 0[m
-02-28 00:12:16.816  1207  1207 I tvos  onReceivePlayEvent event:109 UnknownHostException !  url:  : ** TMDS auto EQ not done and retry port 0
-02-28 00:12:17.119  1207  1207 I tvos  onReceivePlayEvent event:109  : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:16.816  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
+02-28 00:12:17.119  1207  1207 I tvos    : ** TMDS auto EQ not done and retry port 0
 02-28 00:12:17.265  1202 15884 D MSTAR_VDEC_DBG: Stream ID: 0, Rate : 24 (E:0,D:0,S:0,F:18179) 
 02-28 00:12:17.300  1202 15862 D msavp_dw_module: [15862] [DM][m3u8] android_m3u8_get_info, Bandwidth:62105592, Bitrate:1536250
 02-28 00:12:17.300  1202 15863 D mstplayer: [15863] [AVP] send to handle, streaming_msg = 501e
