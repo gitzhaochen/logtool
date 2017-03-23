@@ -12,9 +12,10 @@ var config = {
     app: "logtool",
     src: "app",
     dist: "dist",
-    production:false
+    production:process.argv.splice(2,1).join()==='build'
 };
 gulp.task('clean:dist',function(){
+    console.log(config.production?'发布环境':'开发环境');
     var dir = [config.dist];
     var option = {dot:true};
     return del(dir,option);
@@ -39,7 +40,7 @@ gulp.task('less:watch', function() {
 
 gulp.task('jsconcat', function() {
     var libsJS=[
-         "node_modules/jquery/dist/jquery.js",
+        "node_modules/jquery/dist/jquery.js",
         config.src + "/scripts/server.config.js",
         config.src + "/scripts/main.js"];
     return gulp.src(libsJS)
@@ -80,7 +81,7 @@ gulp.task('dev', gulpSequence(
     "indexhtml:watch"
 ));
 
-// 测试环境
+// 发布环境
 gulp.task('build', gulpSequence(
     "clean:dist",
     "less",
