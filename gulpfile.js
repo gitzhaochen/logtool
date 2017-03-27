@@ -8,15 +8,26 @@ var gulpSequence = require('gulp-sequence');
 var cssmin = require('gulp-clean-css');
 var autoprefixer = require('gulp-autoprefixer');
 var noop = require("gulp-noop");
+var RevAll = require('gulp-rev-all');
 var config = {
     app: "logtool",
     src: "app",
     dist: "dist",
     production:process.argv.splice(2,1).join()==='build'
 };
+gulp.task('deployNoCache', function () {
+    var ignoreImgs = ['index.html'];
+    var finalDest = "release/dist";
+    gulp
+        .src(['dist/**'])
+        .pipe(RevAll.revision({dontRenameFile:ignoreImgs}))
+        .pipe(gulp.dest(finalDest))
+        .pipe(RevAll.manifestFile())
+        .pipe(gulp.dest('manifest'));
+});
 gulp.task('clean:dist',function(){
     console.log(config.production?'发布环境':'开发环境');
-    var dir = [config.dist];
+    var dir = [config.dist,'release'];
     var option = {dot:true};
     return del(dir,option);
 });
@@ -87,6 +98,7 @@ gulp.task('build', gulpSequence(
     "less",
     "jsconcat",
     "copyIndexHtml",
-    "htmlmin"
+    "htmlmin",
+    "deployNoCache"
 ));
 
