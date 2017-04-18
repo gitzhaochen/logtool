@@ -1,0 +1,40 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <title>日志分析</title>
+    <link rel="stylesheet" href="styles/style.css">
+</head>
+<body>
+<h2 class="title">日志分析工具</h2>
+<div class="panel">
+    <div class="search-box clearfix">
+        <input type="text" class="sn-input input-write" placeholder="请输入SN号">
+        <div class="btn get-data-btn">自动检测日志数据</div>
+        <div class="btn zdfx-btn fr">自动分析</div>
+    </div>
+    <div class="wj-table-responsive logslist">
+        <table class="wj-table">
+            <tr>
+                <th width="10%"><input type="checkbox" class="checkAll" id="checkAll"/><label for="checkAll">全选</label></th>
+                <th width="30%">日志URL</th>
+                <th width="30%">日志BugID</th>
+                <th width="30%">上传时间</th>
+            </tr>
+        </table>
+    </div>
+</div>
+
+<div class="wj-table-responsive logscont"></div>
+<!--等待动画-->
+<div class="loading hide">
+    <div class="wj-indicator-wrapper">
+	    <span class="wj-indicator-spin">
+		    <div class="wj-spinner-snake">
+            </div>
+	    </span>
+    </div>
+</div>
+<script src="scripts/bundle.js"></script>
+</body>
+</html>

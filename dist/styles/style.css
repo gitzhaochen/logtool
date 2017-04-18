@@ -1,0 +1,248 @@
+html,
+body {
+  margin: 0;
+  padding: 0;
+  width: 100%;
+  height: 100%;
+  font-family: 'microsoft yahei';
+  font-size: 14px;
+}
+body,
+dl,
+dt,
+dd,
+ul,
+ol,
+li,
+pre,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6,
+p,
+code,
+form,
+fieldset,
+legend,
+input,
+textarea,
+blockquote,
+th,
+td {
+  margin: 0;
+  padding: 0;
+}
+table {
+  border-collapse: collapse;
+  border-spacing: 0;
+  border: none;
+}
+fieldset,
+img {
+  border: 0;
+  vertical-align: middle;
+}
+ol,
+ul {
+  list-style: none;
+}
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  font-size: 100%;
+}
+input,
+textarea,
+select {
+  vertical-align: middle;
+  *font-size: 100%;
+  border: none;
+  outline: none;
+}
+a {
+  text-decoration: none;
+  outline: none;
+}
+a:hover {
+  text-decoration: none;
+}
+.fr {
+  float: right;
+}
+.clearfix {
+  clear: both;
+  zoom: 1;
+}
+.clearfix:after {
+  clear: both;
+  display: block;
+  content: "\0020";
+  visibility: hidden;
+  height: 0;
+}
+.hide {
+  display: none;
+  opcity: 0;
+}
+.panel,
+.group {
+  width: 1200px;
+  margin: 40px auto;
+  border: 1px solid #ccc;
+  box-shadow: 1px 1px 10px #ccc inset;
+  padding: 30px 20px;
+  box-sizing: border-box;
+}
+.mt {
+  margin-top: 20px;
+}
+.wj-indicator-wrapper {
+  top: 50%;
+  left: 50%;
+  position: fixed;
+  -webkit-transform: translate(-50%, -50%);
+  transform: translate(-50%, -50%);
+  border-radius: 5px;
+  background: rgba(0, 0, 0, 0.7);
+  color: #fff;
+  padding: 15px;
+  box-sizing: border-box;
+  text-align: center;
+  z-index: 3002;
+}
+.wj-indicator-spin {
+  display: inline-block;
+  text-align: center;
+}
+.wj-spinner-snake {
+  -webkit-animation: mint-spinner-rotate 0.8s infinite linear;
+  animation: mint-spinner-rotate 0.8s infinite linear;
+  border: 4px solid transparent;
+  border-radius: 50%;
+  border-top-color: #cccccc;
+  border-left-color: #cccccc;
+  border-bottom-color: #cccccc;
+  height: 32px;
+  width: 32px;
+}
+@-webkit-keyframes mint-spinner-rotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+@keyframes mint-spinner-rotate {
+  0% {
+    -webkit-transform: rotate(0deg);
+    transform: rotate(0deg);
+  }
+  100% {
+    -webkit-transform: rotate(360deg);
+    transform: rotate(360deg);
+  }
+}
+.wj-table-responsive .wj-table {
+  font-size: 14px;
+  color: #000;
+  width: 100%;
+  box-sizing: border-box;
+  border-left: 1px solid #cccccc;
+  border-top: 1px solid #cccccc;
+}
+.wj-table-responsive .wj-table th {
+  height: 30px;
+  line-height: 30px;
+  font-size: 12px;
+  border-right: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+  color: #333;
+  background: #66CCCC;
+}
+.wj-table-responsive .wj-table tr {
+  height: 30px;
+  color: #333333;
+}
+.wj-table-responsive .wj-table tr:nth-child(even) td {
+  background-color: #FFFFCC;
+}
+.wj-table-responsive .wj-table tr:nth-child(odd) td {
+  background-color: #CCFFCC;
+}
+.wj-table-responsive .wj-table tr td {
+  border-right: 1px solid #cccccc;
+  border-bottom: 1px solid #cccccc;
+  font-size: 12px;
+  text-align: center;
+  word-break: break-word;
+}
+.title {
+  text-align: center;
+  line-height: 3;
+  font-size: 16px;
+}
+.search-box {
+  margin-bottom: 20px;
+  border-bottom: 1px solid #ccc;
+  padding-bottom: 20px;
+}
+.input-write {
+  line-height: 30px;
+  border: 1px solid #66CCCC;
+  width: 200px;
+  margin-right: 30px;
+  padding: 0 5px;
+}
+.btn {
+  line-height: 30px;
+  display: inline-block;
+  text-align: center;
+  cursor: pointer;
+  padding: 0 10px;
+  border-radius: 2px;
+  background-color: #66CCCC;
+  border: 1px solid #66CCCC;
+  color: #333;
+  -webkit-transition: all .2s;
+  transition: all .2s;
+}
+.btn:hover {
+  background-color: #f2f2f2;
+  color: #333;
+}
+.loading {
+  position: fixed;
+  width: 100%;
+  height: 100%;
+  left: 0;
+  top: 0;
+  background: rgba(0, 0, 0, 0.1);
+}
+.t-right {
+  text-align: right;
+}
+input[type='checkbox'] {
+  width: 15px;
+  height: 15px;
+  cursor: pointer;
+}
+.calc-loading {
+  text-align: center;
+  line-height: 2;
+}
+.log-title {
+  background: #fff;
+  text-align: left;
+  font-size: 16px;
+  line-height: 2;
+  border-bottom: 1px solid #ccc;
+  margin-bottom: 20px;
+}
