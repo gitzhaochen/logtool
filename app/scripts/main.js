@@ -1,3 +1,5 @@
+import '../styles/style.less';
+import $ from 'jquery';
 ;(function(){
 //数组去重
 function concatArr(arr){
